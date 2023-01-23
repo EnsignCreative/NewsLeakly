@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+{
+    "sites": [
+    {
+        "name" : "Naked Security",
+        "logo" : "NakedSecurity",
+        "link" : "https://nakedsecurity.sophos.com"
+    },
+
+    {
+        "name" : "E Hacking",
+        "logo" : "EHacking",
+        "link" : "https://www.ehacking.net"
+    },
+
+    {
+        "name" : "Cybersecurity Insiders",
+        "logo" : "CybersecurityInsiders",
+        "link" : "https://www.cybersecurity-insiders.com"
+    },
+
+
+    {
+        "name" : "Info. Security Buzz",
+        "logo" : "InfoSecurityBuzz",
+        "link" : "https://informationsecuritybuzz.com"
+    },
+
+    {
+        "name" : "Security Gladiators",
+        "logo" : "SecurityGladiators",
+        "link" : "https://securitygladiators.com"
+    },
+
+    {
+        "name" : "Bank Info Security",
+        "logo" : "BankInfoSecurity",
+        "link" : "https://www.bankinfosecurity.com"
+    },
+
+    {
+        "name" : "GBHackers On Security",
+        "logo" : "GBHackersOnSecurity",
+        "link" : "https://gbhackers.com"
+    },
+
+    {
+        "name" : "CSO",
+        "logo" : "CSO",
+        "link" : "https://www.csoonline.com"
+    },
+
+    {
+        "name" : "Threat Post",
+        "logo" : "ThreatPost",
+        "link" : "https://threatpost.com"
+    },
+
+    {
+        "name" : "The Hacker News",
+        "logo" : "HackerNews",
+        "link" : "https://thehackernews.com"
+    },
+
+    {
+        "name" : "Dark Reading",
+        "logo" : "DarkReading",
+        "link" : "https://www.darkreading.com"
+    },
+
+    {
+        "name" : "Security Week",
+        "logo" : "SecurityWeek",
+        "link" : "https://www.securityweek.com"
+    },
+
+    {
+        "name" : "Help Net Security",
+        "logo" : "HelpNetSecurity",
+        "link" : "https://www.helpnetsecurity.com"
+    },
+
+    {
+        "name" : "HackRead",
+        "logo" : "HackRead",
+        "link" : "https://www.hackread.com"
+    },
+
+    {
+        "name" : "Comodo News",
+        "logo" : "ComodoNews",
+        "link" : "https://blog.comodo.com"
+    },
+
+    {
+        "name" : "Tech Worm",
+        "logo" : "TechWorm",
+        "link" : "https://www.techworm.net"
+    },
+
+    {
+        "name" : "The CyberWire",
+        "logo" : "TheCyberWire",
+        "link" : "https://thecyberwire.com"
+    },
+
+    {
+        "name" : "Hacker Combat",
+        "logo" : "HackerCombat",
+        "link" : "https://hackercombat.com"
+    },
+
+    {
+        "name" : "IT Security Guru",
+        "logo" : "ITSecurityGuru",
+        "link" : "https://www.itsecurityguru.org"
+    },
+
+    {
+        "name" : "Infosec Island",
+        "logo" : "InfosecIsland",
+        "link" : "http://www.infosecisland.com"
+    },
+]
+}
+
